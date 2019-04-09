@@ -149,5 +149,11 @@
             </plugin>
         </plugins>
     </build>
-
+	
+	<developers>
+		<developer>
+			<name>Fabio Jacob</name>
+			<email>fabio.oj@gmail.com</email>
+		</developer>
+	</developers>
 </project>
